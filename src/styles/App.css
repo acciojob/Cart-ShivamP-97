@@ -1,12 +1,24 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+body {
+  font-family: Arial, sans-serif;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+#main {
+  padding: 20px;
+}
+
+nav {
+  background: #222;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin: 0 5px;
 }
